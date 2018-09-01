@@ -1,0 +1,354 @@
+/*!
+Theme Name: Construction Company
+Theme URI: https://raratheme.com/wordpress-themes/construction-company/
+Author: Rara Theme
+Author URI: https://raratheme.com/
+Description: Construction Company is a child theme of Construction Landing Page which is a free WordPress theme specially designed for building and construction companies.The theme includes a lead generating contact form on the homepage and several optimally placed Call-to-Action (CTA) sections to create a high converting website.  Construction Company theme is clean, responsive (mobile-friendly), speed optimized, and SEO friendly. It includes an attractive banner with a contact form, services section, portfolio section, client section, testimonial section, social media and so on. It is WooCommerce (online shop) compatible and translation ready. Though the theme is especially created to make building and construction companies websites, it can also be used to make all kinds of websites such as web agency, portfolio, e-commerce, photography, business, corporate, restaurant, video, real estate, travel, wedding, education, business, portfolio, hotel, church, event, music, review, fitness, affiliate, lawyer, community, sports, medical, cafe, spa, teams, band, food, hair salon, jewelry, political, football, school, university, bed and breakfast, pub, resort, squeeze page, reservation and winery websites. Check the demo at https://demo.raratheme.com/construction-company/, documentation at https://raratheme.com/documentation/construction-company/, and get support at https://raratheme.com/support-ticket/.
+Template: construction-landing-page
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: construction-company
+Tags: blog, two-columns, right-sidebar, footer-widgets, custom-background, custom-menu, custom-logo, featured-images, threaded-comments, translation-ready, full-width-template, theme-options, portfolio, e-commerce
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Construction Company is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+/*header-3 style*/
+.site-header.header-3{
+    position: relative;
+    padding-top: 0;
+    background: #fff;
+}
+
+.site-header.header-3 .top-bar{
+    background: #1d2124;
+    padding: 13px 0;
+}
+
+.site-header.header-3 .top-bar .contact-info{
+    float: left;
+    color: #d1d1d1;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+}
+
+.site-header.header-3 .top-bar .contact-info span{
+    margin-right: 36px;
+}
+
+.site-header.header-3 .top-bar .contact-info span a{
+    text-transform: none;
+    color: #d1d1d1;
+}
+
+.site-header.header-3 .top-bar .contact-info span a:hover{
+    color: #f3880a;
+    text-decoration: none;
+}
+
+.site-header.header-3 .top-bar .contact-info span b{
+    color: #f3880a;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: underline;
+    margin-left: 4px;
+}
+
+.site-header.header-3 .top-bar .contact-info .fa{
+    color: #f3880a;
+    margin-right: 7px;
+}
+
+.site-header.header-3 .top-bar .social-networks{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    line-height: 22px;
+    float: right;
+}
+
+.site-header.header-3 .top-bar .social-networks li{
+    float: left;
+    margin-left: 20px;
+}
+
+.site-header.header-3 .top-bar .social-networks li a{
+    color: #d2d2d2;
+}
+
+.site-header.header-3 .top-bar .social-networks li a:hover,
+.site-header.header-3 .top-bar .social-networks li a:focus{
+    color: #fff;
+    text-decoration: none;
+}
+
+.site-header.header-3 .header-t{
+    padding: 30px 0 0;
+}
+
+.site-header.header-3 .header-t .right{float: right;}
+
+/*form-holder*/
+.site-header.header-3 .header-t .form-holder{
+    float: right;
+    position: relative;
+    margin: 17px 0 0;
+}
+
+.site-header.header-3 .header-t .form-holder .fa{
+    color: #2b2b2b;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.site-header.header-3 .header-t .form-holder form{
+    display: none;
+    position: absolute;
+    width: 300px;
+    right: 0;
+    top: 62px;
+    height: 46px;
+    background: #fff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0 0 2px 0 #ccc;
+    z-index: 1;
+    
+}
+
+.site-header.header-3 .header-t .form-holder form:after{
+    display: block;
+    content: '';
+    clear: both;
+}
+
+.site-header.header-3 .header-t .form-holder form input[type="search"]{
+    width: 75%;
+    float: left;
+    height: 100%;
+    padding: 0 10px;
+    background: none;
+    border-radius: 0;
+    border: 0;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.site-header.header-3 .header-t .form-holder form input[type="submit"]{
+    width: 15%;
+    float: left;
+    height: 100%;
+    /*width: 100%;*/
+    background: url(images/search-icon.png) no-repeat 20px 13px;
+    text-indent: -9999px;
+    box-shadow: none;
+    border: 0;
+    border-left: 1px solid #ccc;
+    border-radius: 0;
+}
+
+
+.site-header.header-3 .site-branding .site-title a{
+    color: #434343;
+}
+
+.site-header.header-3 .site-branding .site-title{
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 0 4px;
+}
+
+.site-header.header-3 .site-branding .site-title a{
+    color: #f3880a;
+    -webkit-transition: ease 0.2s;
+    -moz-transition: ease 0.2s;
+    transition: ease 0.2s;
+}
+
+.site-header.header-3 .site-branding .site-description{
+    color: #1D2124;
+    font-size: 14px;
+    line-height: 15px;
+    margin: 0;
+}
+
+.site-header.header-3 .main-navigation{
+    font-weight: 700;
+    text-transform: uppercase;
+    float: right;
+    margin-top: 16px;
+}
+
+.site-header.header-3 .main-navigation:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.site-header.header-3 .main-navigation a{
+    color: #1f1f1f;
+    padding: 0 5px 30px;
+    border-bottom: 3px solid #fff;
+}
+
+.site-header.header-3 .main-navigation a:focus,
+.site-header.header-3 .main-navigation a:hover{
+    color: #f3880a;
+    border-bottom: 3px solid #f3880a;
+    
+}
+
+.site-header.header-3 .main-navigation ul ul{
+    background: #fff;
+}
+
+.site-header.header-3 .main-navigation ul ul a{
+    padding: 5px 20px;
+    text-transform: none;
+    border-bottom: 0;
+}
+
+.site-header.header-3 .main-navigation ul li:hover > a{
+    color: #f3880a;
+    border-bottom: 3px solid #f3880a;
+}
+
+.site-header.header-3 .main-navigation ul ul a:focus,
+.site-header.header-3 .main-navigation ul ul a:hover{
+    border-bottom: 0;
+}
+
+.site-header.header-3 .main-navigation ul ul li:hover > a{
+    color: #f3880a;
+    border-bottom:0;
+}
+
+
+body:not(.no-banner).admin-bar .site-header{
+    margin: 0;
+}
+
+.banner form{
+    background: #021F36;
+}
+
+.banner form input[type="submit"]{
+    border: 1px solid #f3880a;
+    -webkit-transition: ease 0.2s;
+    -moz-transition: ease 0.2s;
+    transition: ease 0.2s;
+}
+
+.banner form input[type="submit"]:hover,
+.banner form input[type="submit"]:focus{
+    background: none;
+    color: #f3880a;
+}
+
+.promotional-block .holder {
+    line-height: 2em;
+}
+
+.promotional-block .holder .btn,
+.our-projects .col .text-holder .btn-more{
+    border: 1px solid #f3880a;
+    -webkit-transition: ease 0.2s;
+    -moz-transition: ease 0.2s;
+    transition: ease 0.2s;
+}
+
+.promotional-block .holder .btn:hover,
+.promotional-block .holder .btn:focus,
+.our-projects .col .text-holder .btn-more:hover,
+.our-projects .col .text-holder .btn-more:focus{
+    background: none;
+}
+
+.our-projects .col .text-holder {
+    background: rgba(2,31,54,0.9);
+}
+
+.testimonial .col cite .text-holder .name{
+    color: #f3880a;
+}
+
+.promotional-block2 form{
+    background: #021F36;
+}
+
+.widget.widget_text .textwidget{
+    padding: 0;                                
+}
+
+.page:not(.home) .wpcf7 form input[type="submit"] {
+    display: block;
+    border-radius: 0;
+    border: 0;
+    box-shadow: none;
+    background: #f3880a;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: none;
+    padding: 15px 30px;
+    outline: none;
+}
+
+.page:not(.home) .wpcf7 form input[type="submit"]:hover {
+    background: #e57f00;
+}
+
+@media only screen and (max-width: 991px){
+    .site-header.header-3 .header-t .form-holder{float: left;}
+
+    .site-header.header-3 #mobile-header a{
+        border: 1px solid #434343;
+    }
+
+    .site-header.header-3 #mobile-header a span{
+        background: #434343;
+    }
+    
+    .our-projects .row .col .mCSB_container {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .site-header.header-3 .site-branding{
+        float: left;
+        width: auto;
+    }
+
+    .site-header.header-3 .top-bar .contact-info{
+        width: 100%;
+        float: none;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .site-header.header-3 .top-bar .social-networks{
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+
+    .site-header.header-3 .top-bar .social-networks li{
+        display: inline-block;
+        float: none;
+    }
+
+    .site-header.header-3 .header-t .form-holder{float: left;}
+}
+
+

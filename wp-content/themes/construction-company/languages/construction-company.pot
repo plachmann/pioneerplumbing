@@ -1,0 +1,625 @@
+# <!=Copyright (C) 2018 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Construction Company 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-07-25 08:37:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: footer.php:55
+msgid "&copy; Copyright "
+msgstr ""
+
+#: footer.php:55
+msgid "Y"
+msgstr ""
+
+#: footer.php:61
+msgid "Construction Company Theme by: Rara Theme"
+msgstr ""
+
+#: footer.php:63
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:63
+msgid "Powered by %s."
+msgstr ""
+
+#: footer.php:63
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:67
+msgid "Demo and Documentation"
+msgstr ""
+
+#: functions.php:95
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions.php:95 functions.php:96 functions.php:98
+msgid "here"
+msgstr ""
+
+#: functions.php:96
+msgid "Theme Demo"
+msgstr ""
+
+#: functions.php:97
+msgid "Theme info"
+msgstr ""
+
+#: functions.php:97 functions.php:99
+msgid "Click here"
+msgstr ""
+
+#: functions.php:98
+msgid "Support Ticket"
+msgstr ""
+
+#: functions.php:99
+msgid "More WordPress Themes"
+msgstr ""
+
+#: functions.php:102
+msgid "About Construction Company"
+msgstr ""
+
+#: functions.php:143
+msgid "Phone # Label"
+msgstr ""
+
+#: functions.php:162
+msgid "Email Address"
+msgstr ""
+
+#: functions.php:187
+msgid "Enable Social Links"
+msgstr ""
+
+#: functions.php:188
+msgid "Enable to show social links at header."
+msgstr ""
+
+#: functions.php:211
+msgid "Social Links"
+msgstr ""
+
+#: functions.php:215
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: functions.php:216
+msgid "Example: fa-bell"
+msgstr ""
+
+#: functions.php:220
+msgid "Link"
+msgstr ""
+
+#: functions.php:221
+msgid "Example: http://facebook.com"
+msgstr ""
+
+#: functions.php:226
+msgid "links"
+msgstr ""
+
+#: functions.php:239
+msgid "Typography Settings"
+msgstr ""
+
+#: functions.php:255
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:256
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:320
+msgid "Georgia"
+msgstr ""
+
+#: functions.php:321
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr ""
+
+#: functions.php:322
+msgid "Times New Roman, Times"
+msgstr ""
+
+#: functions.php:323
+msgid "Arial, Helvetica"
+msgstr ""
+
+#: functions.php:324
+msgid "Arial Black, Gadget"
+msgstr ""
+
+#: functions.php:325
+msgid "Comic Sans MS, cursive"
+msgstr ""
+
+#: functions.php:326
+msgid "Impact, Charcoal"
+msgstr ""
+
+#: functions.php:327
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr ""
+
+#: functions.php:328
+msgid "Tahoma, Geneva"
+msgstr ""
+
+#: functions.php:329
+msgid "Trebuchet MS, Helvetica"
+msgstr ""
+
+#: functions.php:330
+msgid "Verdana, Geneva"
+msgstr ""
+
+#: functions.php:331
+msgid "Courier New, Courier"
+msgstr ""
+
+#: functions.php:332
+msgid "Lucida Console, Monaco"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+#. translators: %s: row label value
+msgid "Add new %s"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:242
+#. translators: %s: choice limit
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:375
+msgid "Hex Value"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:400
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:410
+#: inc/custom-controls/repeater/class-control-repeater.php:475
+msgid "Remove"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:411
+#: inc/custom-controls/repeater/class-control-repeater.php:415
+msgid "Add Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:411
+#: inc/custom-controls/repeater/class-control-repeater.php:413
+msgid "Change Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:436
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+msgid "No File Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:447
+#: inc/custom-controls/repeater/class-control-repeater.php:451
+msgid "Add File"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:447
+#: inc/custom-controls/repeater/class-control-repeater.php:449
+msgid "Change File"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:205
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:206
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:207
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:208
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Light 200 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:209
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:210
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Book 300 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:211
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:212
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:213
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:214
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:215
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:216
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:217
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:218
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:219
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:220
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:221
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:222
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "ON"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+msgid "OFF"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "All"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Devanagari"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Khmer"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Hebrew"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Arabic"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Bengali"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Gujarati"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Tamil"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Telugu"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgid "Thai"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Family"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Size"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Font Weight"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Line Height"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Font Style"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Align"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "Text Transform"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "None"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Uppercase"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Lowercase"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Top"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Bottom"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Left"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Right"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Center"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Justify"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Color"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Select a font-family"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Variant"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Style"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Size"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Height"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Spacing"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:110
+msgid "Invalid Value"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Construction Company"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://raratheme.com/wordpress-themes/construction-company/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Construction Company is a child theme of Construction Landing Page which is "
+"a free WordPress theme specially designed for building and construction "
+"companies.The theme includes a lead generating contact form on the homepage "
+"and several optimally placed Call-to-Action (CTA) sections to create a high "
+"converting website.  Construction Company theme is clean, responsive "
+"(mobile-friendly), speed optimized, and SEO friendly. It includes an "
+"attractive banner with a contact form, services section, portfolio section, "
+"client section, testimonial section, social media and so on. It is "
+"WooCommerce (online shop) compatible and translation ready. Though the "
+"theme is especially created to make building and construction companies "
+"websites, it can also be used to make all kinds of websites such as web "
+"agency, portfolio, e-commerce, photography, business, corporate, "
+"restaurant, video, real estate, travel, wedding, education, business, "
+"portfolio, hotel, church, event, music, review, fitness, affiliate, lawyer, "
+"community, sports, medical, cafe, spa, teams, band, food, hair salon, "
+"jewelry, political, football, school, university, bed and breakfast, pub, "
+"resort, squeeze page, reservation and winery websites. Check the demo at "
+"https://demo.raratheme.com/construction-company/, documentation at "
+"https://raratheme.com/documentation/construction-company/, and get support "
+"at https://raratheme.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://raratheme.com/"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:97
+msgctxt "font style"
+msgid "Georgia"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:101
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:105
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:109
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:113
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:117
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:121
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:125
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:129
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:133
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:137
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:141
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr ""
+
+#: inc/custom-controls/typography/class-fonts.php:145
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/typography-functions.php:18
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""

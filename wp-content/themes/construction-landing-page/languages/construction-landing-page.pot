@@ -1,0 +1,731 @@
+# <!=Copyright (C) 2018 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Construction Landing Page 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-06-26 09:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: 404.php:17
+msgid ""
+"The Page you are looking for is no longer exists. Please use search or "
+"navigate from Homepage."
+msgstr ""
+
+#: 404.php:18
+msgid "Back to homepage"
+msgstr ""
+
+#: archive.php:38 index.php:46 search.php:38
+msgid "Page"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:47
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:55
+msgid "&copy; Copyright "
+msgstr ""
+
+#: footer.php:55 inc/extras.php:226 inc/extras.php:226 inc/extras.php:227
+#: inc/extras.php:231 inc/extras.php:231 inc/extras.php:235
+msgid "Y"
+msgstr ""
+
+#: footer.php:61
+msgid "Construction Landing Page Theme by: Rara Theme"
+msgstr ""
+
+#: footer.php:63
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:63
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary"
+msgstr ""
+
+#: functions.php:149
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:151 functions.php:161 functions.php:171 functions.php:181
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:159
+msgid "Footer Sidebar First"
+msgstr ""
+
+#: functions.php:169
+msgid "Footer Sidebar Second"
+msgstr ""
+
+#: functions.php:179
+msgid "Footer Sidebar Third"
+msgstr ""
+
+#: search.php:15
+msgid "If you didn&rsquo;t find what you were looking for, try a new search!"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Choose Post/Page"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Choose Page"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Default section provided by wordpress customizer"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid ""
+"Check to enable banner on the front page. The featured image and content of "
+"Static Front Page will be displayed in the banner section. To add or edit "
+"the content of Static Front Page, go to Dashboard >> Pages > All Pages  and "
+"edit the page with Front Page template."
+msgstr ""
+
+#: inc/customizer.php:286 inc/customizer.php:2270
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer.php:290 inc/customizer.php:2274
+msgid ""
+"Enter the Contact Form Shortcode. Ex. [contact-form-7 id=\"186\" "
+"title=\"Google contact\"]"
+msgstr ""
+
+#: inc/customizer.php:310
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer.php:382 inc/customizer.php:598 inc/customizer.php:766
+#: inc/customizer.php:1094 inc/customizer.php:1978 inc/customizer.php:2228
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer.php:384 inc/customizer.php:386 inc/customizer.php:600
+#: inc/customizer.php:768 inc/customizer.php:1096 inc/customizer.php:1980
+#: inc/customizer.php:2230
+msgid ""
+"Title and description of selected page will display as section title and "
+"description."
+msgstr ""
+
+#: inc/customizer.php:426 inc/customizer.php:806 inc/customizer.php:1134
+#: inc/customizer.php:2018
+msgid "Select Post/Page One"
+msgstr ""
+
+#: inc/customizer.php:464 inc/customizer.php:844 inc/customizer.php:1172
+#: inc/customizer.php:2056
+msgid "Select Post/Page Two"
+msgstr ""
+
+#: inc/customizer.php:502 inc/customizer.php:882 inc/customizer.php:1210
+#: inc/customizer.php:2094
+msgid "Select Post/Page Three"
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Promotional Block Section"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "Enable Promotional Block Section"
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "CTA Button Label"
+msgstr ""
+
+#: inc/customizer.php:674
+msgid "CTA Button Link"
+msgstr ""
+
+#: inc/customizer.php:694
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/customizer.php:730
+msgid "Enable Portfolio Section"
+msgstr ""
+
+#: inc/customizer.php:920 inc/customizer.php:1248 inc/customizer.php:2132
+msgid "Select Post/Page Four"
+msgstr ""
+
+#: inc/customizer.php:958 inc/customizer.php:1286
+msgid "Select Post/Page Five"
+msgstr ""
+
+#: inc/customizer.php:996 inc/customizer.php:1324
+msgid "Select Post/Page Six"
+msgstr ""
+
+#: inc/customizer.php:1020
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer.php:1056
+msgid "Enable Services Section"
+msgstr ""
+
+#: inc/customizer.php:1362
+msgid "Select Post/Page Seven"
+msgstr ""
+
+#: inc/customizer.php:1400
+msgid "Select Post/Page Eight"
+msgstr ""
+
+#: inc/customizer.php:1424
+msgid "Clients Section"
+msgstr ""
+
+#: inc/customizer.php:1460
+msgid "Enable Clients Section"
+msgstr ""
+
+#: inc/customizer.php:1496
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:1536
+msgid "Upload a logo (One)"
+msgstr ""
+
+#: inc/customizer.php:1574
+msgid "Logo Url (One)"
+msgstr ""
+
+#: inc/customizer.php:1614
+msgid "Upload a logo (Two)"
+msgstr ""
+
+#: inc/customizer.php:1652
+msgid "Logo Url (Two)"
+msgstr ""
+
+#: inc/customizer.php:1692
+msgid "Upload a logo (Three)"
+msgstr ""
+
+#: inc/customizer.php:1730
+msgid "Logo Url (Three)"
+msgstr ""
+
+#: inc/customizer.php:1770
+msgid "Upload a logo (Four)"
+msgstr ""
+
+#: inc/customizer.php:1808
+msgid "Logo Url (Four)"
+msgstr ""
+
+#: inc/customizer.php:1848
+msgid "Upload a logo (Five)"
+msgstr ""
+
+#: inc/customizer.php:1886
+msgid "Logo Url (Five)"
+msgstr ""
+
+#: inc/customizer.php:1906
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:1942
+msgid "Enable Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:2156
+msgid "Contact Form Section"
+msgstr ""
+
+#: inc/customizer.php:2192
+msgid "Enable Contact Form Section"
+msgstr ""
+
+#: inc/customizer.php:2294
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer.php:2332
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:2368
+msgid "Show current"
+msgstr ""
+
+#: inc/customizer.php:2388 inc/extras.php:173
+msgid "Home"
+msgstr ""
+
+#: inc/customizer.php:2404
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer.php:2424 inc/extras.php:172
+msgid ">"
+msgstr ""
+
+#: inc/customizer.php:2440
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer.php:2456
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:2473
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/demo-content.php:11
+msgid "Demo Content Import"
+msgstr ""
+
+#: inc/demo-content.php:22
+#, php-format
+msgid ""
+"Construction Landing Page comes with demo content import feature. You can "
+"import the demo content with just one click. For step-by-step video tutorial,"
+" %1$sClick here%2$s"
+msgstr ""
+
+#: inc/demo-content.php:38
+msgid "Plugin required"
+msgstr ""
+
+#: inc/demo-content.php:38
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#: inc/demo-content.php:41
+msgid "Download Demo Content Zip File"
+msgstr ""
+
+#: inc/demo-content.php:41 inc/info.php:41 inc/info.php:42 inc/info.php:43
+#: inc/info.php:44
+msgid "here"
+msgstr ""
+
+#: inc/extras.php:126
+#, php-format
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: inc/extras.php:149
+msgid "404 - Page not found"
+msgstr ""
+
+#: inc/extras.php:223
+msgid "Search Results for \""
+msgstr ""
+
+#: inc/extras.php:223
+msgid "\""
+msgstr ""
+
+#: inc/extras.php:227
+msgid "m"
+msgstr ""
+
+#: inc/extras.php:227 inc/extras.php:232
+msgid "F"
+msgstr ""
+
+#: inc/extras.php:228
+msgid "d"
+msgstr ""
+
+#: inc/extras.php:289
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:331
+msgid "404 Error - Page not Found"
+msgstr ""
+
+#: inc/extras.php:369
+msgid "About Author"
+msgstr ""
+
+#: inc/extras.php:396
+msgid "Name*"
+msgstr ""
+
+#: inc/extras.php:398
+msgid "Email*"
+msgstr ""
+
+#: inc/extras.php:400
+msgid "Website"
+msgstr ""
+
+#: inc/extras.php:412
+msgid "Comment*"
+msgstr ""
+
+#: inc/extras.php:413
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/info.php:11 inc/info.php:41
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/info.php:29
+msgid ""
+"Check out step-by-step video tutorial to create your website like the demo "
+"of Construction Landing Page WordPress theme."
+msgstr ""
+
+#: inc/info.php:42
+msgid "Theme Demo"
+msgstr ""
+
+#: inc/info.php:43
+msgid "Support Ticket"
+msgstr ""
+
+#: inc/info.php:44
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/info.php:161
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:163
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/metabox.php:25
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:45
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:55
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:79
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-tags.php:23
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:36 inc/template-tags.php:42
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:38 inc/template-tags.php:44
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:53
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/widget-featured-post.php:49
+msgid "RARA: Featured Post"
+msgstr ""
+
+#: inc/widget-featured-post.php:51
+msgid "A Featured Post Widget"
+msgstr ""
+
+#: inc/widget-featured-post.php:79 inc/widget-featured-post.php:193
+#: inc/widget-featured-post.php:277
+msgid "Read More"
+msgstr ""
+
+#: inc/widget-featured-post.php:169
+msgid "--choose--"
+msgstr ""
+
+#: inc/widget-featured-post.php:205
+msgid "Posts"
+msgstr ""
+
+#: inc/widget-featured-post.php:225
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widget-featured-post.php:237 inc/widget-popular-post.php:235
+#: inc/widget-recent-post.php:233
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widget-popular-post.php:49
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widget-popular-post.php:51
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widget-popular-post.php:213 inc/widget-recent-post.php:211
+#: inc/widget-social-links.php:214
+msgid "Title"
+msgstr ""
+
+#: inc/widget-popular-post.php:223 inc/widget-recent-post.php:221
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widget-popular-post.php:245 inc/widget-recent-post.php:243
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/widget-recent-post.php:49
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widget-recent-post.php:51
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:49
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widget-social-links.php:51
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:115 inc/widget-social-links.php:224
+msgid "Facebook"
+msgstr ""
+
+#: inc/widget-social-links.php:119 inc/widget-social-links.php:234
+msgid "Twitter"
+msgstr ""
+
+#: inc/widget-social-links.php:123 inc/widget-social-links.php:244
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widget-social-links.php:127
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widget-social-links.php:131 inc/widget-social-links.php:264
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widget-social-links.php:135 inc/widget-social-links.php:274
+msgid "Instagram"
+msgstr ""
+
+#: inc/widget-social-links.php:139 inc/widget-social-links.php:284
+msgid "YouTube"
+msgstr ""
+
+#: inc/widget-social-links.php:143 inc/widget-social-links.php:292
+msgid "OK"
+msgstr ""
+
+#: inc/widget-social-links.php:147 inc/widget-social-links.php:301
+msgid "VK"
+msgstr ""
+
+#: inc/widget-social-links.php:151 inc/widget-social-links.php:310
+msgid "Xing"
+msgstr ""
+
+#: inc/widget-social-links.php:254
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/woocommerce-functions.php:71
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:75
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: sections/portfolio.php:115
+msgid "View Detail"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:28 template-parts/content-single.php:44
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:39 template-parts/content.php:44
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content.php:58
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:53
+msgid "Contact Form 7"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Construction Landing Page"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Construction Landing Page is a free WordPress theme for construction company."
+" It is a WordPress theme with a contact form on the homepage, and includes "
+"several Call-to-Action sections to create high converting landing pages for "
+"construction and building business websites.  Construction Landing Page is "
+"clean, responsive (mobile-friendly), speed optimized, and SEO friendly. It "
+"includes an attractive banner with a contact form, Services section, "
+"Portfolio section, Client Section, testimonial section, Banner with Call to "
+"Action Button (CTA), and social media. It is WooCommerce (online shop) "
+"compatible and translation ready. Though this theme is created to make "
+"construction companies websites, you can use to make all kinds of websites "
+"such as web agency, portfolio, e-commerce, photography, business, corporate, "
+"restaurant, video, real estate, travel, wedding, education, parallax "
+"business portfolio, hotel, church, event, music, review, fitness, affiliate, "
+"lawyer, community, sports, medical, cafe, spa, teams, band, food, hair salon,"
+" jewelry, political, football, school, university, bed and breakfast, pub, "
+"resort, squeeze page, reservation and winery websites. Check the demo at "
+"https://raratheme.com/preview/construction-landing-page/, video "
+"documentation at https://raratheme.com/documentation/construction-landing-"
+"page/, and get support at https://raratheme.com/support-ticket/."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/construction-landing-page/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr ""
